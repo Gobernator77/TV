@@ -3,8 +3,8 @@
 http://190.61.46.126:9001/play/a04r/index.m3u8
 #EXTINF:-1,CNN.
 http://190.61.46.126:9001/play/a037/index.m3u8
-#EXTINF:-1,Canal 13
-http://190.61.46.126:9001/play/a02i/index.m3u8
+#EXTINF:-1,Canal 13 HD
+http://190.60.37.115:8001/play/a0b5/index.m3u8
 #EXTINF:-1,3ABN_LATINO
 http://181.78.82.6:46090/play/a054/index.m3u8
 #EXTINF:-1,A&E HD

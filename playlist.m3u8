@@ -3,10 +3,14 @@
 http://190.60.37.115:8001/play/a0bs/index.m3u8
 #EXTINF:-1,Canal 13 HD
 http://190.60.37.115:8001/play/a0b5/index.m3u8
+#EXTINF:-1,TVN HD
+http://190.121.42.18:8000/play/a008/index.m3u8
 #EXTINF:-1,Canal 24 Horas HD
 http://190.242.41.219:9000/play/a0ca/index.m3u8
 #EXTINF:-1,MEGA HD
 http://190.242.41.219:9000/play/a0b4/index.m3u8
+#EXTINF:-1,MEGA2
+http://190.121.42.18:8000/play/a00c/index.m3u8
 #EXTINF:-1,A&E HD
 http://181.78.82.6:46090/play/a00d/index.m3u8
 #EXTINF:-1,AMC HD

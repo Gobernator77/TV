@@ -30,8 +30,8 @@ http://181.78.82.6:46090/play/a028/index.m3u8
 http://181.78.82.6:46090/play/a00o/index.m3u8
 #EXTINF:-1,TOONCAST
 http://181.78.82.6:46090/play/a03e/index.m3u8
-#EXTINF:-1, Cartoonito
-http://176.65.146.108:8022/play/a05i/index.m3u8
+#EXTINF:-1,Cartoonito
+http://190.61.44.134:1088/play/a03k
 
 #DOCUMENTALES
 #EXTINF:-1,ANIMAL PLANET HD
@@ -84,6 +84,8 @@ http://181.78.82.6:46090/play/a05k/index.m3u8
 http://181.78.82.6:46090/play/a03j/index.m3u8
 #EXTINF:-1, Bloomberg
 http://176.65.146.108:8022/play/a06b/index.m3u8
+#EXTINF:-1,EWTN
+http://190.61.44.134:1088/play/a07t
 
 #CINE Y ACCIÓN
 #EXTINF:-1,A&E HD
@@ -142,6 +144,12 @@ http://181.78.82.6:46090/play/a01a/index.m3u8
 http://181.78.82.6:46090/play/a00f/index.m3u8
 
 #DEPORTES
+#EXTINF:-1,CDO PREMIUM HD
+http://190.121.42.18:8000/play/a019/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://190.61.44.134:1088/play/a02q
+#EXTINF:-1,ESPN HD
+http://190.61.44.134:1088/play/a04j
 #EXTINF:-1,ESPN 2 HD
 http://181.78.82.6:46090/play/a00i/index.m3u8
 #EXTINF:-1,ESPN 3 HD

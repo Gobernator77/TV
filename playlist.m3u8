@@ -241,17 +241,15 @@ http://181.78.82.6:46090/play/a01x/index.m3u8
 http://181.78.82.6:46090/play/a04v/index.m3u8
 #EXTINF:-1,MI MUSICA SALSA
 http://181.78.82.6:46090/play/a04w/index.m3u8
-#EXTINF:11,MTV HD
+#EXTINF:-1,MTV HD
 http://190.83.2.172:8080/play/a02s/index.m3u8
-#EXTINF:11,MTV
-http://190.83.2.172:8081/play/a05z/index.m3u8
-#EXTINF:11,MTV 00s HD
+#EXTINF:-1,MTV 00s HD
 http://190.83.2.172:8081/play/a05n/index.m3u8
-#EXTINF:11,MTV 80s
+#EXTINF:-1,MTV 80s
 http://190.83.2.172:8080/play/a02h/index.m3u8
-#EXTINF:11,MTV LIVE HD
+#EXTINF:-1,MTV LIVE HD
 http://190.83.2.172:8081/play/a05m/index.m3u8
-#EXTINF:11,MTV HITS HD
+#EXTINF:-1,MTV HITS HD
 http://190.83.2.172:8080/play/a02g/index.m3u8
 #EXTINF:-1,MULTIPREMIER HD
 http://181.78.82.6:46090/play/a04z/index.m3u8

@@ -2,6 +2,8 @@
 #NACIONALES
 #EXTINF:-1 group-title="-",CANAL 13
 http://177.93.37.53:9001/play/a01u/index.m3u8
+#EXTINF:-1,Canal 13
+http://190.131.197.6:8000/play/a03h/index.m3u8
 #EXTINF:-1,CHV HD
 http://190.60.37.115:8001/play/a0bs/index.m3u8
 #EXTINF:-1,MEGA HD

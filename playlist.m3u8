@@ -1,9 +1,7 @@
 ﻿#EXTM3U
 #NACIONALES
 #EXTINF:-1,Canal 13 HD
-http://190.60.37.115:8001/play/a0b5/index.m3u8
-#EXTINF:-1,CANAL12
-http://181.78.86.226:8086/play/a001
+http://186.113.25.223:62837/play/a03d
 #EXTINF:-1,CHV HD
 http://190.60.37.115:8001/play/a0bs/index.m3u8
 #EXTINF:-1,MEGA HD
